@@ -55,7 +55,7 @@ $( document ).ready(function() {
                         <li><a href="news.php">NEWS</a></li>
                         <li><a href="#">ARCHIVE</a></li>
                         <li><a href="#">ACTIVITIES</a></li>
-                        <li><a href="registration1_page.php">REGISTRATION</a></li>
+                        <li><a href="registration_page1.php">REGISTRATION</a></li>
                         <li class="border-right-none"><a href="contact.php">CONTACT</a></li>
                     </ul>
 					<div class="search float-right">

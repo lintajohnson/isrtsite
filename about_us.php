@@ -8,9 +8,9 @@
             	
                 <div class="left_nav">
                 	<ul>
-                    	<li class=""><a href="#">Our Vision</a></li>
-                        <li class=""><a href="about_us.php">Our Mission</a></li>
-                        <li class=""><a href="gallery.php">Subsidieries</a></li>
+                    	<li class=""><a href="about_us_our_vision.php">Our Vision</a></li>
+                        <li class=""><a href="about_us_our_mission.php">Our Mission</a></li>
+                        <li class=""><a href="about_us_subsidieries.php">Subsidieries</a></li>
                     
                     </ul>
                 </div>
